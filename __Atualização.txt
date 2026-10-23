@@ -1,0 +1,23 @@
+**Atualização da página de divulgação — Serviços Já**
+
+Edite a página existente do Serviços Já, mantendo o endereço publicado, o visual atual e todas as funcionalidades que já funcionam.
+
+Adicionar:
+
+1. **Botão “Copiar link”**: copiar o endereço oficial do aplicativo para a área de transferência. Exibir a confirmação “Link copiado com sucesso!”. Se a cópia automática falhar, mostrar o endereço em um campo selecionável para cópia manual.
+
+2. **Botão “Copiar texto de divulgação”**: copiar uma mensagem promocional pronta, contendo o nome Serviços Já, uma explicação breve do serviço e o link oficial do aplicativo.
+
+3. **Botão “Divulgar no WhatsApp”**: abrir o WhatsApp com a mensagem de divulgação preenchida, permitindo que o usuário escolha para quem enviar.
+
+4. **Facilidade de uso no celular**: botões grandes, identificados e fáceis de tocar, com mensagens claras de sucesso ou erro.
+
+5. **Segurança**: não expor dados de clientes, profissionais ou anunciantes. Não mostrar ferramentas administrativas ou de teste aos visitantes públicos.
+
+**Requisitos obrigatórios:**
+
+* Não criar uma página nova nem substituir o projeto existente.
+* Não remover formulários, cadastros ou recursos que já funcionam.
+* Testar os três botões em celular e computador.
+* Publicar a alteração no projeto existente e informar o resultado dos testes.
+* Não afirmar que está concluído sem testar as funcionalidades reais.
